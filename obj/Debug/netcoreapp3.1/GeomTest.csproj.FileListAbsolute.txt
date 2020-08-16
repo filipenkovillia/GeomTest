@@ -1,0 +1,13 @@
+D:\Projects\GeomTest\bin\Debug\netcoreapp3.1\GeomTest.exe
+D:\Projects\GeomTest\bin\Debug\netcoreapp3.1\GeomTest.deps.json
+D:\Projects\GeomTest\bin\Debug\netcoreapp3.1\GeomTest.runtimeconfig.json
+D:\Projects\GeomTest\bin\Debug\netcoreapp3.1\GeomTest.runtimeconfig.dev.json
+D:\Projects\GeomTest\bin\Debug\netcoreapp3.1\GeomTest.dll
+D:\Projects\GeomTest\bin\Debug\netcoreapp3.1\GeomTest.pdb
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.AssemblyInfoInputs.cache
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.AssemblyInfo.cs
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.csproj.CoreCompileInputs.cache
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.dll
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.pdb
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.genruntimeconfig.cache
+D:\Projects\GeomTest\obj\Debug\netcoreapp3.1\GeomTest.csprojAssemblyReference.cache
